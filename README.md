@@ -2,7 +2,7 @@
 CMSC 14100, Autumn 2022
 Homework #1
 
-AMANDA MURPHY
+Amanda Murphy
 
 People Consulted:
    Red Atagi
